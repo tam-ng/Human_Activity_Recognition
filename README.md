@@ -13,7 +13,7 @@ HAR using wearable devices has been actively investigated for a wide range of ap
 - Sports training: energy expenditure, skill assessment
 - Smart assistive technologies, i.e. smart homes: aid people with cognitive and physical limitations, etc.
 
-Our objective in this project: 
+Our objectives in this project: 
 - Focus on Sensor-based HAR: using accelerometer data to classify 6 activities
 
 - Apply different types of  Deep Learning technique to discover which method performs the best in term of: Generalization, Accuracy, f1-score, precision, recall, time given minimal  data- preprocessing & transformation
