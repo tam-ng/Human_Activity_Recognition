@@ -1,7 +1,7 @@
 # Human_Activity_Recognition
 
 ## Introduction
-Human activity recognition (HAR) plays a crucial role in people’s daily life for its competence in learning profound high-level knowledge about human activity. 
+Human activity recognition (HAR) plays a crucial role in people’s daily life for its wide range of applications
 
 Two main types of HAR:  
 - Video-based HAR: analyzes videos or images containing human motions from the camera 
