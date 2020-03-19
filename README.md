@@ -13,14 +13,23 @@ HAR using wearable devices has been actively investigated for a wide range of ap
 - Sports training: energy expenditure, skill assessment
 - Smart assistive technologies, i.e. smart homes: aid people with cognitive and physical limitations, etc.
 
-## Objectives of this project: 
+## Objectives of this project
 - Focus on Sensor-based HAR: using accelerometer data to classify 6 activities
 
 - Apply different types of  Deep Learning technique to discover which method performs the best in term of: Generalization, Accuracy, f1-score, precision, recall, time given minimal  data- preprocessing & transformation
 
-## Data source: 
+## Data source
 
 - Wireless Sensor Data Mining Lab (Fordham University) 
 
 Reference: http://www.cis.fordham.edu/wisdm/includes/files/sensorKDD-2010.pdf
+
+
+## Model
+- DNN (MLP)
+- LSTM + Dense
+- LSTM stacked 3 layers
+- CNN-LSTM
+- ConvLSTM
+
 
