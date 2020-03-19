@@ -21,6 +21,7 @@ HAR using wearable devices has been actively investigated for a wide range of ap
 ## Data source
 
 - Wireless Sensor Data Mining Lab (Fordham University) 
+http://www.cis.fordham.edu/wisdm/dataset.php
 
 Reference: http://www.cis.fordham.edu/wisdm/includes/files/sensorKDD-2010.pdf
 
